@@ -295,18 +295,9 @@ curl -X POST http://localhost:5000/api/tasks \
 - 🎭 **Material-UI Icons** - Beautiful and consistent icons
 - 🎨 **Tailwind CSS** - Modern utility-first styling
 
-## 🔜 Bonus Features (Optional)
-
-- [ ] Implement user authentication (JWT)
-- [ ] Add task search functionality
-- [ ] Deploy to cloud platform (Vercel + MongoDB Atlas)
-- [ ] Add unit and integration tests
-- [ ] Task categories/tags
-- [ ] Due dates and reminders
-
 ## 👨‍💻 Author
 
-Full Stack Development Internship Assignment
+Ayusman Saxena
 
 ## 📝 License
 
